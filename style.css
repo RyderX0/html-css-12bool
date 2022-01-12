@@ -7,3 +7,17 @@
     padding-top: 10px;
     
 }
+
+.nested {
+    background-color: greenyellow;
+    
+    margin: 5px;
+
+
+}
+
+
+.marginW {
+    min-height: 100px;
+    background-color: white;
+}
